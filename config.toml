@@ -1,13 +1,10 @@
-# remove files from themes dir if flexoki when included in default installation
 theme = "flexoki_dark"
 # theme = "flexoki_light"
-
-# theme = "solarized_dark"
 
 [editor]
 true-color = true
 line-number = "relative"
-bufferline = "multiple"
+# bufferline = "multiple"
 color-modes = true
 
 [editor.statusline]
